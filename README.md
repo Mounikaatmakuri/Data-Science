@@ -1,1 +1,1 @@
-House Rent prediction using ML algorithms
+Projects using ML algorithms
